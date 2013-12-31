@@ -63,7 +63,7 @@ namespace Unzipper
                     //   - want to extract all entries to current working directory
                     //   - none of the files in the zip already exist in the directory;
                     //     if they do, the method will throw.
-                    zip.ExtractAll(directory);
+                    zip.ExtractAll(directory, ExtractExistingFileAction.OverwriteSilently);
                 }
 
 				//zipname.Extracted = true;
@@ -73,7 +73,7 @@ namespace Unzipper
 
 			} catch (Exception e) {
 				//zipname.Extracted = false;
-				Console.WriteLine ("Couldn't decompress: {0} Error: {1}\n\n", fi.Name, e.ToString ());
+				Console.WriteLine ("Couldn't decompress: {0} The Directory is {1}\nError: {2}\n\n", fi.Name, directory, e.ToString ());
 			}
 		}
 
