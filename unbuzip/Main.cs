@@ -16,8 +16,8 @@ namespace Unzipper
 
         static void Main(string[] args)
         {
-            string dirpath = "/media/bryan/New Volume/";
-            string extractDirectory = "/media/bryan/New Volume/temp/";
+            string dirpath = "/home/bryan/src/unbuzip";
+            string extractDirectory = "/home/bryan/src/unbuzip/temp/";
             DirectoryInfo di = new DirectoryInfo(dirpath);
 
             foreach (FileInfo fi in di.GetFiles("*.zip"))
