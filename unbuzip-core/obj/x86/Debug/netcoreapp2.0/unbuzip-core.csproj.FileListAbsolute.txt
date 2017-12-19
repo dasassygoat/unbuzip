@@ -1,0 +1,10 @@
+/home/bryan/src/unbuzip/unbuzip-core/bin/x86/Debug/netcoreapp2.0/unbuzip-core.deps.json
+/home/bryan/src/unbuzip/unbuzip-core/bin/x86/Debug/netcoreapp2.0/unbuzip-core.runtimeconfig.json
+/home/bryan/src/unbuzip/unbuzip-core/bin/x86/Debug/netcoreapp2.0/unbuzip-core.runtimeconfig.dev.json
+/home/bryan/src/unbuzip/unbuzip-core/bin/x86/Debug/netcoreapp2.0/unbuzip-core.dll
+/home/bryan/src/unbuzip/unbuzip-core/bin/x86/Debug/netcoreapp2.0/Debug/netcoreapp2.0/unbuzip-core.pdb
+/home/bryan/src/unbuzip/unbuzip-core/obj/x86/Debug/netcoreapp2.0/unbuzip-core.csproj.CoreCompileInputs.cache
+/home/bryan/src/unbuzip/unbuzip-core/obj/x86/Debug/netcoreapp2.0/unbuzip-core.AssemblyInfoInputs.cache
+/home/bryan/src/unbuzip/unbuzip-core/obj/x86/Debug/netcoreapp2.0/unbuzip-core.AssemblyInfo.cs
+/home/bryan/src/unbuzip/unbuzip-core/obj/x86/Debug/netcoreapp2.0/unbuzip-core.dll
+/home/bryan/src/unbuzip/unbuzip-core/obj/x86/Debug/netcoreapp2.0/unbuzip-core.pdb
