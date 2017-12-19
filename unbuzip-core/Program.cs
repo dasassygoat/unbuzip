@@ -4,7 +4,7 @@ using System.IO.Compression;
 
 namespace unbuzip_core
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
