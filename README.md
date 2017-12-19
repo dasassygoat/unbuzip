@@ -1,9 +1,13 @@
-unbuzip
+Unbuzip
 =======
 
-Unbuntu unzip tool.
+Ubuntu unzip tool.
 
-Written in C# useing MonoDevelop. Unzips files and then deletes.
+Originally written in C# with MonoDevelop. Unzips files and then deleted them.
+Current version is written in .Net Core 2.0 with JetBrains Rider.
 
 Features Comming:
-ability to dynamically change directory
+Ability to dynamically change directory
+Ability to use other compression formats.
+Ability to use password protected files.
+
